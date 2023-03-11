@@ -1,5 +1,7 @@
 ### 📲 ¡Hola! Soy un freelance android developer (Java/Kotlin) 👋
 
+En cuanto a mi experiencia en el desarrollo de aplicaciones móviles, he trabajado en proyectos que van desde aplicaciones simples hasta aplicaciones más complejas con características avanzadas como la integración con equipos y portales RFID en terminales Zebra y Honeywell.
+
 <!--
 **programadorescs/programadorescs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
