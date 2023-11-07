@@ -1,6 +1,14 @@
-### 📲 ¡Hola! Soy un freelance android developer (Java/Kotlin) 👋
+# 📲 ¡Hola! Soy Jack 👋
 
-En cuanto a mi experiencia en el desarrollo de aplicaciones móviles, he trabajado en proyectos que van desde aplicaciones simples hasta aplicaciones más complejas con características avanzadas como la integración con equipos y portales RFID en terminales Zebra y Honeywell.
+## Sobre mi
+- 📱 Desarrollador móvil nativo (Java/Kotlin).
+- 👨‍💻 Actualmente estoy desarrollando aplicaciones móviles nativas para equipos y portales RFID en terminales Zebra, Honeywell e iData.
+- 🤝 Estoy disponible para trabajar por cuenta propia.
+
+
+## 🛠 Mis habilidades
+### Lenguajes de programación
+| `KOTLIN` | `JAVA` | `C#` |
 
 <!--
 **programadorescs/programadorescs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
