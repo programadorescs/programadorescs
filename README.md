@@ -1,7 +1,7 @@
 # 📲 ¡Hola! Soy Jack 👋
 
 ## 🧑 Sobre mi
-- 📱 Soy un Freelance Android Developer.
+- 💻 Soy un Freelance Android Developer.
 - 👨‍💻 Actualmente estoy desarrollando aplicaciones móviles nativas para equipos y portales RFID en terminales Zebra, Honeywell e iData.
 - 🤝 Estoy disponible para trabajar por cuenta propia.
 
