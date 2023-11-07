@@ -8,7 +8,10 @@
 
 ## 🛠 Mis habilidades
 ### Lenguajes de programación
-| `KOTLIN` | `JAVA` | `C#` |
+![Static Badge](https://img.shields.io/badge/KOTLIN-blue)
+![Static Badge](https://img.shields.io/badge/JAVA-yellow)
+![Static Badge](https://img.shields.io/badge/C%23-green)
+
 
 ## ⚙️ Análisis de GitHub
 <p align="center">
