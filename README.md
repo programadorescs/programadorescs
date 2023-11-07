@@ -1,6 +1,6 @@
 # 📲 ¡Hola! Soy Jack 👋
 
-## Sobre mi
+## 🧑 Sobre mi
 - 📱 Desarrollador móvil nativo (Java/Kotlin).
 - 👨‍💻 Actualmente estoy desarrollando aplicaciones móviles nativas para equipos y portales RFID en terminales Zebra, Honeywell e iData.
 - 🤝 Estoy disponible para trabajar por cuenta propia.
@@ -10,6 +10,13 @@
 ### Lenguajes de programación
 | `KOTLIN` | `JAVA` | `C#` |
 
+## ⚙️ Análisis de GitHub
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=programadorescs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=programadorescs&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **programadorescs/programadorescs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
