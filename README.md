@@ -6,11 +6,25 @@
 - 🤝 Estoy disponible para trabajar por cuenta propia.
 
 
-## 🛠 Mis habilidades
-### Lenguajes de programación
-![Static Badge](https://img.shields.io/badge/KOTLIN-blue)
-![Static Badge](https://img.shields.io/badge/JAVA-yellow)
-![Static Badge](https://img.shields.io/badge/C%23-green)
+## 🛠 Tecnologías
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![CSharp](https://img.shields.io/badge/C%20Sharp-05122A)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+![Androis Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?logo=postman&logoColor=white)&nbsp;
+
+![SQLServer](https://img.shields.io/badge/-SQL%20Server-05122A?&logo=Sqlserver)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?&logo=PostgreSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?&logo=SQLite)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A.svg?logo=firebase&logoColor=white)&nbsp;
 
 
 ## ⚙️ Análisis de GitHub
