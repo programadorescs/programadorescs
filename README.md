@@ -1,4 +1,4 @@
-# 📲 ¡Hola! Soy Jack 👋
+# ¡Hola! Soy Jack 👋
 
 ## 🧑 Sobre mi
 - 💻 Soy un Freelance Android Developer.
